@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E8:80:DD:2D:A2:70:A3:0F:AF:B1:E0:BE:51:86:A0:0E:9E:F8:F3:0A%3Bcom.app.geofencingproject
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.app.geofencingproject
+
+    SHA-1 certificate fingerprint:
+    E8:80:DD:2D:A2:70:A3:0F:AF:B1:E0:BE:51:86:A0:0E:9E:F8:F3:0A
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDMo1oQrTss1cG2gjIirW08BFY8hzuGVs4</string>
+</resources>
